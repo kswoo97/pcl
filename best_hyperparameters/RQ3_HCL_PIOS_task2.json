@@ -1,0 +1,1 @@
+{"dblp": {"part_cl": {"lr": 0.001, "n_neg": 1, "drate": 0.3, "cl_ep": 25}}, "trivago": {"part_cl": {"lr": 0.001, "n_neg": 2, "drate": 0.3, "ep": 50}}, "ogbn_mag": {"part_cl": {"lr": 0.0001, "n_neg": 2, "drate": 0.3, "ep": 25}}}
