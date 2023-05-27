@@ -1,4 +1,4 @@
-# Source Codes and Datasets for "Datasets, Tasks, and Training Methods for Benchmarking Large-scale Hypergraph Learning." 
+# Source Code and Datasets for "Datasets, Tasks, and Training Methods for Benchmarking Large-scale Hypergraph Learning." 
 
 ## Dataset Description
 
