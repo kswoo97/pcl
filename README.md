@@ -2,7 +2,8 @@
 
 ## Dataset Description
 
-We provide hypergraph datasets at **https://www.dropbox.com/sh/qhz6rqol5mue4wc/AAByciJuLNba8uGv8MdMpbf-a?dl=0**. 
+We provide hypergraph datasets at **https://www.dropbox.com/sh/1908u1h5w6zxzjs/AABP04dM4VU_0fadrpe_5pb-a?dl=0**. 
+
 We provide 
 - Each dataset's feature, node label, original hyperedge information, split hyperedge information (for task 1)
 - Each dataset's partitioned hypergraph (# of Partition $|P|$ / DBLP:4, Trivago:32, OGBN_MAG:128, AMINER and MAG: 256)
