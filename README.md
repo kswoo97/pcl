@@ -9,7 +9,7 @@ We provide
 - Each dataset's partitioned hypergraph (# of Partition $|P|$ / DBLP:4, Trivago:32, OGBN_MAG:128, AMINER and MAG: 256)
 - For DBLP, Trivago, OGBN_MAG, we also provide partitioned hypergraph **P-IOS** partition.  
 
-Refer to README file in dataset folder for more details regarding datasets.
+Refer to README_DATA.txt file for more details regarding datasets.
 
 ## Code Description 
 
