@@ -1,5 +1,11 @@
 # Source Code and Datasets for "Datasets, Tasks, and Training Methods for Benchmarking Large-scale Hypergraph Learning." 
 
+## Publication Information
+
+Title: Datasets, Tasks, and Training Methods for Benchmarking Large-scale Hypergraph Learning.
+Authors: Sunwoo Kim, Dongjin Lee, Yul Kim, Jungho Lee, Taeho Hwang, and Kijung Shin.
+Venue: Data Mining and Knowledge Discovery 2023. (+ Journal Track of ECML-PKDD 2023)
+
 ## Dataset Description
 
 We provide hypergraph datasets at **https://www.dropbox.com/sh/1908u1h5w6zxzjs/AABP04dM4VU_0fadrpe_5pb-a?dl=0**. 
