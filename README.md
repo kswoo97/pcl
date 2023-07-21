@@ -2,9 +2,9 @@
 
 ## Publication Information
 
-Title: Datasets, Tasks, and Training Methods for Benchmarking Large-scale Hypergraph Learning.
-Authors: Sunwoo Kim, Dongjin Lee, Yul Kim, Jungho Lee, Taeho Hwang, and Kijung Shin.
-Venue: Data Mining and Knowledge Discovery 2023. (+ Journal Track of ECML-PKDD 2023)
+- Title: Datasets, Tasks, and Training Methods for Benchmarking Large-scale Hypergraph Learning.
+- Authors: Sunwoo Kim, Dongjin Lee, Yul Kim, Jungho Lee, Taeho Hwang, and Kijung Shin.
+- Venue: Data Mining and Knowledge Discovery 2023. (+ Journal Track of ECML-PKDD 2023)
 
 ## Dataset Description
 
@@ -39,8 +39,8 @@ src
 
 ### Hyperparameters
 
-We provide hyperparameter combination for reproducibility of experimental results.  
-Refer to best_hyperparameter directory, where we saved each dataset-model combination's best hyperparameter as .json files.
+We provide a hyperparameter combination for the reproducibility of experimental results.  
+Refer to the best_hyperparameter directory, where we saved each dataset-model combination's best hyperparameter as .json files.
 
 ### How to implement codes
 
