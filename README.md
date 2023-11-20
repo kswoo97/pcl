@@ -8,7 +8,10 @@
 
 ## Dataset Description
 
-We provide hypergraph datasets at **https://www.dropbox.com/sh/1908u1h5w6zxzjs/AABP04dM4VU_0fadrpe_5pb-a?dl=0**. 
+We provide hypergraph datasets at the below links:
+
+- Static and Temporal (Unzip): **https://www.dropbox.com/sh/qhz6rqol5mue4wc/AAByciJuLNba8uGv8MdMpbf-a?dl=0**.
+- Static (Zip): **https://www.dropbox.com/sh/1908u1h5w6zxzjs/AABP04dM4VU_0fadrpe_5pb-a?dl=0**.
 
 We provide 
 - Each dataset's feature, node label, original hyperedge information, split hyperedge information (for task 1)
@@ -25,7 +28,7 @@ In this repository, we provide source codes for
 - Obtaining performance on proposed task 2 (local clustering)
 
 ### Dataset
-For dataset one aims to run the code, files of corresponding dataset in **https://www.dropbox.com/sh/qhz6rqol5mue4wc/AAByciJuLNba8uGv8MdMpbf-a?dl=0** should be located in scr/data folder. 
+For dataset one aims to run the code, files of the corresponding dataset in the above links should be located in scr/data folder. 
 For example
 ```
 src
